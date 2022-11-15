@@ -4,7 +4,6 @@ import {
   ChakraProvider,
   ColorModeScript,
   Flex,
-  Heading,
   VStack,
   Editable,
   EditableInput,
